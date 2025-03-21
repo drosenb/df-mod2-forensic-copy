@@ -1,0 +1,5 @@
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          CFE3B4E37BF41406376B6FE350F73A5C567BFA86EE0602C99026528A48A95DB9       C:\Work\df-mod2-forensic-copy\evidence-copy-3_20_25\examplefile_3.txt
+
