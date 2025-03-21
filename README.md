@@ -1,5 +1,6 @@
 # df-mod2-forensic-copy
 For this assignment, I created five evidence files in a folder and made a seperate folder for the hash results for those evidence files. I then made a copy folder for the evidence and copied the original text files into the copy folder. After this, I reran the hash algorithm for the copy files and added them to their own folder. Finally, I verified that the hash values for the original files and their copies matched.
+
 File Names and their hash values in the orignal "evidence" folder:
 
 examplefile_1 - SHA256          307723776088BD27C6A75AA48959903D34FB93FB2597C278EFF81BAED77E6449
